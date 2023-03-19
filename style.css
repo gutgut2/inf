@@ -1391,6 +1391,71 @@ h1 {
   text-overflow: ellipsis;
   max-width: 380px;
 }
+----
+.social-block .itempop {
+  margin-bottom: 10px;
+  background: #111315;
+  border-radius: 20px;
+  padding: 9px 10px;
+  cursor: pointer;
+}
+.social-block .itempop.hidden {
+  display: none;
+}
+.social-block .itempop:hover {
+  background: #1F2125;
+}
+.social-block .itempop div {
+  display: table-cell;
+  vertical-align: middle;
+}
+.social-block .itempop div .icon {
+  display: inline-block;
+  width: 70px;
+  height: 70px;
+  line-height: 70px;
+  text-align: center;
+  background: #181A1E;
+  border-radius: 20px;
+  margin-right: 20px;
+}
+.social-block .itempop div .icon img {
+  vertical-align: middle;
+}
+.social-block .itempop div .name {
+  display: block;
+  margin-bottom: 2px;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 25px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  max-width: 380px;
+}
+.social-block .itempop div .name span {
+  display: inline-block;
+  vertical-align: middle;
+  color: #fff;
+  font-weight: 700;
+  font-size: 10px;
+  line-height: 14px;
+  padding: 0 5px;
+  background: #891715;
+  border-radius: 10px;
+}
+.social-block .itempop div a {
+  display: block;
+  text-decoration: none;
+  font-size: 15px;
+  line-height: 20px;
+  color: #29B6F6;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  max-width: 380px;
+----
+}
 .social-block .bottom-button {
   text-align: center;
 }
