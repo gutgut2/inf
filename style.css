@@ -1358,7 +1358,7 @@ h1 {
 .social-block .item div .icon img {
   vertical-align: middle;
 }
-.social-block .itemq div .name2 {
+.social-block .itemq div .name {
   display: block;
   margin-bottom: 2px;
   font-weight: 700;
@@ -1369,7 +1369,7 @@ h1 {
   text-overflow: ellipsis;
   max-width: 380px;
 }
-.social-block .item2 div .name2 span {
+.social-block .item div .name span {
   display: inline-block;
   vertical-align: middle;
   color: #fff;
