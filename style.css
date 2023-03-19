@@ -1391,7 +1391,6 @@ h1 {
   text-overflow: ellipsis;
   max-width: 380px;
 }
-----
 .social-block .itempop {
   margin-bottom: 10px;
   background: #111315;
@@ -1454,7 +1453,6 @@ h1 {
   overflow: hidden;
   text-overflow: ellipsis;
   max-width: 380px;
-----
 }
 .social-block .bottom-button {
   text-align: center;
