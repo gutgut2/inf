@@ -1291,6 +1291,9 @@ h1 {
 .popup-filter .window .fields .jq-selectbox .jq-selectbox__dropdown ul li:hover {
   color: #FF543F;
 }
+.popup-filter .window .fields .jq-selectbox .jq-selectbox__dropdown ul li:first-child {
+  pointer-events: non222e;
+}
 .popup-filter .window .fields .jq-selectbox .jq-selectbox__dropdown ul li:first-child:hover {
   color: #fff;
 }
