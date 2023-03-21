@@ -1288,10 +1288,12 @@ h1 {
   -o-transition: all 200ms ease;
   transition: all 200ms ease;
 }
+.popup-filter .window .fields .jq-selectbox .jq-selectbox__dropdown ul li:first-child {
+}
 .popup-filter .window .fields .jq-selectbox .jq-selectbox__dropdown ul li:hover {
   color: #FF543F;
-
-  
+}
+.popup-filter .window .fields .jq-selectbox .jq-selectbox__dropdown ul li:first-child {
 }
 .popup-filter .window .fields .jq-selectbox .jq-selectbox__dropdown ul li:not(:last-child) {
   margin-bottom: 10px;
